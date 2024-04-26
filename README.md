@@ -1,5 +1,4 @@
 # practice-4
- practice-1
 
 At first, i create a basic HTML/CSS file.
 On HTML file 
