@@ -1,0 +1,46 @@
+.box{
+    position: relative;
+    width: 700px;
+    height: 700px;
+    background: #EA7457;
+}
+.rectangular{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #B53733;
+    border-radius: 10%;
+}
+
+.rectangular1{
+    top: -40px;
+    left: -40px;
+    border-radius: 0%;
+    height: 150px;
+    width: 150px;
+    border: 25px solid #EA7457;
+    box-shadow: 40px 40px #B53733;
+    
+    
+}
+.rectangular2{
+    bottom: -40px;
+    right: -40px;
+    border-radius: 0%;
+    height: 150px;
+    width: 150px;
+    border: 25px solid #EA7457;
+    box-shadow: -40px -40px #B53733;
+}
+.bar{
+    position: absolute;
+    width: 50px;
+    height: 355px;
+    background: #B53733;;
+}
+.bar1{
+    width: 50px;
+    height: 710px;
+    top: 0px;
+    left: 45%;
+}
